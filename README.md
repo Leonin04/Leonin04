@@ -7,7 +7,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/DavidBacas)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Leonin04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davidbacas)
 [![Portfolio](https://img.shields.io/badge/Website-Live-00C7B7?style=for-the-badge&logo=firefox)](https://infoadehub.tech)
 
@@ -64,13 +64,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DavidBacas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=79c0ff&text_color=c9d1d9" height="155" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBacas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9" height="155" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats.vercel.app/api?username=Leonin04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=79c0ff&text_color=c9d1d9" height="155" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonin04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9" height="155" alt="Lenguajes más usados" />
 
 <br/><br/>
 
 <!-- Racha de commits activa -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidBacas&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" alt="Racha en GitHub" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonin04&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" alt="Racha en GitHub" />
 
 </div>
 
@@ -79,7 +79,7 @@
 ### 🐍 Snake Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DavidBacas/DavidBacas/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Leonin04/Leonin04/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
